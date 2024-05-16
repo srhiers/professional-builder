@@ -3,7 +3,7 @@ En este repositorio iré agregando y actualizando mis configuraciones / archivos
 
 
 ***Command line:***                
--LANPLAY -NOSPLASH -NOTEXTURESTREAMING -USEALLAVALIABLECORES -nomansky -limitclientticks -high
+-LANPLAY -NOSPLASH -NOTEXTURESTREAMING -USEALLAVAILABLECORES -nomansky -limitclientticks -high
 
 
 ***Sensitivity:***                 
