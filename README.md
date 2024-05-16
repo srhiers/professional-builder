@@ -7,4 +7,4 @@ En este repositorio iré agregando y actualizando mis configuraciones / archivos
 
 
 ***Sensitivity:***                 
-1.40 (90% zoom), 800dpi
+8.8% (69.9% zoom, 120% build, 120% edit), 800dpi
